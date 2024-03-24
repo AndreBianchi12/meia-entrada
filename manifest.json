@@ -13,12 +13,12 @@
       "type": "image/png"
     },
     {
-      "src": "favicons/favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "https://meiaentrada.org.br/favicons/favicon-32x32.png",
+      "sizes": "32x32",
       "type": "image/x-icon"
     }
   ],
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "/meia-entrada/",
   "theme_color": "#487c99",
   "background_color": "#487c99",
   "display": "standalone"
